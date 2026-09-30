@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+# ไฟล์ข้อมูลที่ได้จาก API ไม่จำเป็นต้องขึ้น GitHub (เอาออกถ้าต้องการแชร์)
+places.csv
+matrix.csv
