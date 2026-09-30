@@ -1,0 +1,4 @@
+﻿name,category,visit_minutes,score,entrance_fee,open_time,close_time,pref_start,pref_end
+โรงแรมทดสอบ,hotel,,,,,,,
+วัดทดสอบ,attraction,90,9,0,8,17,,
+ร้านอาหารทดสอบ,restaurant,60,8,150,10,20,11.5,13.5
